@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_primary">#007BFF</color> <!-- Used for buttons -->
+    <color name="blue_dark">#0056b3</color> <!-- For hover or border -->
+    <color name="text_color">#333333</color>
+    <color name="gray_light">#EEEEEE</color>
+</resources>
